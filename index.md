@@ -8,7 +8,9 @@ I would describe myself as a very determined and highly motivated person. I do t
 
 ### Web Developer
 _*The Sundial*_
+
 _Northridge, CA_
+
 _Sept, 2018 - Present_
 - The Sundial is an award-winning, and financially independent, student newspaper and website. We are student journalists who  seek to gather, write, edit and publish or disseminate news for our students and community.
 - As a web developer, I will help manage all of the publication’s web and mobile platforms. I am working on HTML, CSS and Javascript, and WordPress and its underlying technology along with PHP & MySQL. 
