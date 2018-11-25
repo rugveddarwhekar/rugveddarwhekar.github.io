@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About Me 
 
-You can use the [editor on GitHub](https://github.com/rugveddarwhekar/rugveddarwhekar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am looking forward for Computer Science internship opportunities in United States for Summer of 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would describe myself as a very determined and highly motivated person. I do take my job seriously but I’m able to see things in perspective and believe I’m quite easy- going to work with. I’m an optimist rather than a pessimist – but I’m also a realist and I cope well when the going gets tough; I’m very good at finding solutions to problems. Above all, I would say I’m a positive and enthusiastic person – and I relish a challenge.
 
 ### Markdown
 
