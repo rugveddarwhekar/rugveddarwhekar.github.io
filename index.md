@@ -13,37 +13,36 @@ Actively seeking full-time job opportunities in Software Engineering and related
 # Skills
 ---
 
-### Programming Languages
-
+|Programming Languages|
 |--|--|--|--|--|--|
 |Java|Python|Kotlin|JavaScript|C|SQL|
 
-### Mobile Technologies / Libraries
 
+|Mobile Technologies / Libraries||||||
 |--|--|--|--|--|--|
 |Android|Flutter|React|SQLite|Firebase|Volley|
 |GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|Zxing|
 
-### Quality Assurance and Testing
 
+|Quality Assurance and Testing|||
 |--|--|--|
 |Appium|Selenium|JIRA|
 |SoapUI|Postman|Firebase|
 
-### Web Technologies
 
+|Web Technologies||||
 |--|--|--|--|
 |HTML|CSS|JS|Python
 |PHP|WordPress|Bootstrap|Git
 
-### UX and UI Designing
 
+|UX and UI Designing|||
 |--|--|--|
 |UX Research|Wireframing|Sketch|
 |UI Prototyping|User Research|Adobe Suite|
 
-### Other
 
+|Other||||
 |--|--|--|--|
 |Linux|Git/GitHub|JSON|TensorFlow
 |APIs|NoSQL|Spring Boot| AWS ML Notebooks
