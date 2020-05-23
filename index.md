@@ -27,10 +27,8 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 ---
 
 ## Programming Intern 
-TAP Series LLC.
-
-Westlake Village, CA
-
+TAP Series LLC. | 
+Westlake Village, CA | 
 _March 2020 - Present (Currently on-hold due to Covid-19 pandemic)_
 
 TAP Series in an industry leader in online classes, training and certification courses and cloud solutions with 25 employees.
@@ -39,10 +37,8 @@ TAP Series in an industry leader in online classes, training and certification c
 - Maintaining and debugging existing applications.
 
 ## Web Developer (Part-Time) 
-The Sundial
-
-Northridge, CA
-
+The Sundial | 
+Northridge, CA | 
 _Sept 2018 - Dec 2019_
 
 The Sundial is an award-winning, and financially independent, student newspaper and website. We are student journalists who  seek to gather, write, edit and publish or disseminate news for our students and community.
@@ -52,10 +48,8 @@ The Sundial is an award-winning, and financially independent, student newspaper 
 - Made the site accessible for all users following WCAG 2.0
 
 ## Student Assistant - IT (Part-Time) 
-Department of Journalism, CSUN
-
-Northridge, CA
-
+Department of Journalism, CSUN | 
+Northridge, CA | 
 _Dec 2018 - Dec 2019_
 
 - Performed a range of simultaneous job tasks to support professor’s academic, research and operational needs.  
