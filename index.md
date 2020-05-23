@@ -7,10 +7,9 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 
 ---
 ### Programming Languages
-|||||||
-|--|--|--|--|--|--|--|--|
+
+|--|--|--|--|--|--|
 |Java|Python|Kotlin|JavaScript|C|SQL|
-|||||||
 
 ### Mobile Technologies / Libraries
 ||||||
