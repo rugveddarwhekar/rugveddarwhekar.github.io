@@ -5,6 +5,20 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 
 # Skills
 
+---
+### Programming Languages
+|||||||
+|--|--|--|--|--|--|--|--|
+|Java|Python|Kotlin|JavaScript|C|SQL|
+|||||||
+
+### Mobile Technologies / Libraries
+||||||
+|--|--|--|--|--|--|
+|Android|Flutter|React|SQLite|Firebase|Volley|
+|GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|
+||||||
+
 # Education
 
 ## MS in Computer Science
