@@ -1,29 +1,30 @@
 # About Me 
-
+---
 
 I am an MS graduate (May 2020) with a Computer Science major from California State University, Northridge. During the course of my academic career, I also managed to gain experience in fields such as Web Development, Java Programming, and UI/UX Design. I have designed and developed various projects relating to Machine Learning, Android, Web, and Python-based technologies. I would describe myself as a very determined and highly motivated person. I do take my job seriously, but I’m able to see things in perspective and believe I’m quite easy-going to work with. I’m very good at finding solutions to problems. Above all, I would say I’m a positive and enthusiastic person – and I relish a challenge.
 
 # Skills
-
 ---
+
 ### Programming Languages
 
 |--|--|--|--|--|--|
 |Java|Python|Kotlin|JavaScript|C|SQL|
 
 ### Mobile Technologies / Libraries
-||||||
+
 |--|--|--|--|--|--|
 |Android|Flutter|React|SQLite|Firebase|Volley|
 |GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|
-||||||
 
 # Education
+---
 
 ## MS in Computer Science
 
 
 # Work Experience
+---
 
 ## Programming Intern 
 TAP Series LLC.
@@ -67,31 +68,3 @@ _July 2017 - Sept 2017_
 - Partnering with executives and other stakeholders to define smart strategies that align to business and customer needs.  
 - Presenting and articulating concepts to senior management and executives.  
 - Responsible for the conception, oversight and execution of design direction on all key initiatives.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rugveddarwhekar/rugveddarwhekar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
