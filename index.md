@@ -13,7 +13,7 @@ Actively seeking full-time job opportunities in Software Engineering and related
 # Skills
 ---
 
-|Programming Languages|
+|Programming Languages||||||
 |--|--|--|--|--|--|
 |Java|Python|Kotlin|JavaScript|C|SQL|
 
