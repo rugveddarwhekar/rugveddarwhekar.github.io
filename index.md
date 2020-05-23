@@ -10,6 +10,7 @@ Actively seeking full-time job opportunities in Software Engineering and related
 |Github|[https://www.github.com/rugveddarwhekar/](https://www.github.com/rugveddarwhekar/)|
 |Twitter|[https://www.twitter.com/@rugved__](https://www.twitter.com/@rugved__)|
 
+---
 # Skills
 ---
 
@@ -47,7 +48,7 @@ Actively seeking full-time job opportunities in Software Engineering and related
 |Linux|Git/GitHub|JSON|TensorFlow
 |APIs|NoSQL|Spring Boot| AWS ML Notebooks
 
-
+---
 # Education
 ---
 
@@ -79,7 +80,7 @@ Actively seeking full-time job opportunities in Software Engineering and related
 - Web Technologies
 - Data Mining
 
-
+---
 # Work Experience
 ---
 
@@ -126,8 +127,8 @@ _July 2017 - Sept 2017_
 - Presenting and articulating concepts to senior management and executives.  
 - Responsible for the conception, oversight and execution of design direction on all key initiatives.
 
+---
 # Projects
-
 ---
 
 ## Skin Disease Classifier 
