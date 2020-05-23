@@ -135,5 +135,5 @@ _July 2017 - Sept 2017_
 	- Presentation: [https://bit.ly/rugved_thesis_presentation](https://bit.ly/rugved_thesis_presentation)
   
   
-> Praises make the wicked deaf(they can't tolerate criticism) while people who praise become successful because of their humility.
+> Praises make the wicked deaf while people who praise become successful because of their humility.
 > -RigVeda
