@@ -15,7 +15,7 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 
 |--|--|--|--|--|--|
 |Android|Flutter|React|SQLite|Firebase|Volley|
-|GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|
+|GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|Zxing|
 
 # Education
 ---
@@ -58,10 +58,8 @@ _Dec 2018 - Dec 2019_
 - Developed IT strategic vision and drove key departmental objectives.
 
 ## UI/UX Designer (Intern) 
-Engaginbiz Technologies
-
-Work from Home, India
-
+Engaginbiz Technologies | 
+Work from Home, India | 
 _July 2017 - Sept 2017_
 
 - Completely designed an application named "Bizfluence" from scratch. Bizfluence is like the tinder for businesses. Learned a lot regarding UX!  
