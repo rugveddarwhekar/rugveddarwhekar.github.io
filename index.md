@@ -46,6 +46,17 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 ---
 
 ## MS in Computer Science
+### **California State University, Northridge**
+
+*Aug 2018 - May 2020* | 
+**GPA: 3.66**
+
+#### Coursework
+- Mobile Computing
+- Graphical user Interface
+- Machine Learning
+- Human Computer Interaction
+- Software Engineering
 
 
 # Work Experience
