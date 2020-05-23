@@ -17,6 +17,31 @@ I am an MS graduate (May 2020) with a Computer Science major from California Sta
 |Android|Flutter|React|SQLite|Firebase|Volley|
 |GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|Zxing|
 
+### Quality Assurance and Testing
+
+|--|--|--|
+|Appium|Selenium|JIRA|
+|SoapUI|Postman|Firebase|
+
+### Web Technologies
+
+|--|--|--|--|
+|HTML|CSS|JS|Python
+|PHP|WordPress|Bootstrap|Git
+
+### UX and UI Designing
+
+|--|--|--|
+|UX Research|Wireframing|Sketch|
+|UI Prototyping|User Research|Adobe Suite|
+
+### Other
+
+|--|--|--|--|
+|Linux|Git/GitHub|JSON|TensorFlow
+|APIs|NoSQL|Spring Boot| AWS ML Notebooks
+
+
 # Education
 ---
 
