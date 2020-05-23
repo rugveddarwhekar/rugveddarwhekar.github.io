@@ -119,3 +119,20 @@ _July 2017 - Sept 2017_
 - Partnering with executives and other stakeholders to define smart strategies that align to business and customer needs.  
 - Presenting and articulating concepts to senior management and executives.  
 - Responsible for the conception, oversight and execution of design direction on all key initiatives.
+
+# Projects
+
+---
+
+## Skin Disease Classifier 
+**California State University, Northridge**
+- Project developed to defend my M.S. Thesis
+- **Aim:** Build an Android application that will help users with preliminary diagnosis of typical skin diseases using the simplest and most efficient techniques.
+- **Results:** The application can successfully predict 15 most common skin conditions with around 80% precision. 
+- **Technologies Used:** Android, Firebase, Auto MLKit, Azure Custom Vision
+- **Links:** 
+	- APK: [https://bit.ly/skin_predict_app](https://bit.ly/skin_predict_app)
+	- Code: [https://github.com/rugveddarwhekar/SkinConditionClassifier](https://github.com/rugveddarwhekar/SkinConditionClassifier)
+	- Presentation: [https://bit.ly/rugved_thesis_presentation](https://bit.ly/rugved_thesis_presentation)
+  
+  
