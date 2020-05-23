@@ -1,22 +1,59 @@
-## About Me 
+# About Me 
 
-I am looking forward for Computer Science internship opportunities in United States for Summer of 2019.
 
-I would describe myself as a very determined and highly motivated person. I do take my job seriously but I’m able to see things in perspective and believe I’m quite easy- going to work with. I’m an optimist rather than a pessimist – but I’m also a realist and I cope well when the going gets tough; I’m very good at finding solutions to problems. Above all, I would say I’m a positive and enthusiastic person – and I relish a challenge.
+I am an MS graduate (May 2020) with a Computer Science major from California State University, Northridge. During the course of my academic career, I also managed to gain experience in fields such as Web Development, Java Programming, and UI/UX Design. I have designed and developed various projects relating to Machine Learning, Android, Web, and Python-based technologies. I would describe myself as a very determined and highly motivated person. I do take my job seriously, but I’m able to see things in perspective and believe I’m quite easy-going to work with. I’m very good at finding solutions to problems. Above all, I would say I’m a positive and enthusiastic person – and I relish a challenge.
 
-## Work Experience
+# Skills
 
-### Web Developer
-_*The Sundial*_
+# Education
 
-_Northridge, CA_
+## MS in Computer Science
 
-_Sept, 2018 - Present_
-- The Sundial is an award-winning, and financially independent, student newspaper and website. We are student journalists who  seek to gather, write, edit and publish or disseminate news for our students and community.
-- As a web developer, I will help manage all of the publication’s web and mobile platforms. I am working on HTML, CSS and Javascript, and WordPress and its underlying technology along with PHP & MySQL. 
-- Develop and direct software system testing and validation procedures, programming, and documentation.
-- Making the site accessible for all users following WCAG 2.0
-- Write, design, or edit web page content, or direct others producing content.
+
+# Work Experience
+
+## Programming Intern 
+TAP Series LLC.
+Westlake Village, CA
+_March 2020 - Present (Currently on-hold due to Covid-19 pandemic)_
+
+TAP Series in an industry leader in online classes, training and certification courses and cloud solutions with 25 employees.
+- Developed a web scraper using Python which collects 50 data points and not only stores them but also generates relevant reports. 
+- Handled scripting tasks for debugging and automation using Python.
+- Maintaining and debugging existing applications.
+
+## Web Developer (Part-Time) 
+The Sundial
+Northridge, CA
+_Sept 2018 - Dec 2019_
+
+The Sundial is an award-winning, and financially independent, student newspaper and website. We are student journalists who  seek to gather, write, edit and publish or disseminate news for our students and community.
+- Developed and Designed the website using WordPress, PHP, HTML and CSS resulting in a better UX.
+- Integrated & developed various APIs and plugins to support the editors in easily publishing new content and resulting in better workflow.
+- Developed software system testing and validation procedures and documentation.
+- Made the site accessible for all users following WCAG 2.0
+
+## Student Assistant - IT (Part-Time) 
+Department of Journalism, CSUN
+Northridge, CA
+_Dec 2018 - Dec 2019_
+
+- Performed a range of simultaneous job tasks to support professor’s academic, research and operational needs.  
+- Set up and configured system user hardware and software applications.  
+- Supported the IT manager with department administrative duties.  
+- Developed IT strategic vision and drove key departmental objectives.
+
+## UI/UX Designer (Intern) 
+Engaginbiz Technologies
+Work from Home, India
+_July 2017 - Sept 2017_
+
+- Completely designed an application named "Bizfluence" from scratch. Bizfluence is like the tinder for businesses. Learned a lot regarding UX!  
+- Delivered user-centered design solutions in fast paced environment, with quick iterative cycles.  
+- Acquired skills in communication and collaboration by working with remote team on various projects.  
+- Partnering with executives and other stakeholders to define smart strategies that align to business and customer needs.  
+- Presenting and articulating concepts to senior management and executives.  
+- Responsible for the conception, oversight and execution of design direction on all key initiatives.
 
 ```markdown
 Syntax highlighted code block
