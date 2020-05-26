@@ -143,6 +143,8 @@ _July 2017 - Sept 2017_
 	- Presentation: [https://bit.ly/rugved_thesis_presentation](https://bit.ly/rugved_thesis_presentation)
   
 ---
+More Projects Coming Soon!
+---
 
 > Praises make the wicked deaf while people who praise become successful because of their humility.
 > -RigVeda
