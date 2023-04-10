@@ -1,14 +1,24 @@
 # About Me 
 ---
-**Actively seeking full-time job opportunities in Software Engineering and related fields starting July 2020**. I'm an MS graduate (May 2020) with a Computer Science major from California State University, Northridge. During the course of my academic career, I also managed to gain experience in fields such as Web Development, Java Programming, and UI/UX Design. I have designed and developed various projects relating to Machine Learning, Android, Web, and Python-based technologies. I would describe myself as a very determined and highly motivated person. I do take my job seriously, but I’m able to see things in perspective and believe I’m quite easy-going to work with. I’m very good at finding solutions to problems. I am very passionate about social and mental well being of everyone and aim to bring a difference in the world. I believe in *वसुधैव कुटुम्बकम* (Sanskrit; read as - Vasudhaiva Kutumbakam) which means "The whole world is one single family!" 
+**I love making life easier for people.** 
+
+I'm an Android Engineer and a Web Accessibility Specialist who enjoys connecting the dots: be it ideas from different disciplines, people from other teams, or applications from various industries. I have strong technical skills and an academic background in Computer Science, Android Application Development, Android SDK, Android Bug Triage, and Web Development along with the understanding of WCAG & Section 508 guidelines.
+
+My passion lies in solving business problems and communicating complex ideas to non-technical stakeholders. I can jump across verticals to deliver high-performing software solutions.
+
+Proficient: Java, Kotlin, Android (XML, Jetpack, Retrofit, Picasso, Room, MVVM), Python (Flask, matplotlib, NumPy, pandas), HTML, CSS, PHP, SQL, Git/GitHub, WordPress, UI/UX Design
+
+Knowledgeable: NoSQL, React JS, Flutter, JSON, CMS, SEO, Laravel, Spring Boot, Firebase, Bootstrap
+
+Familiar: Micro-services, NLP (Natural Language Processing), GraphQL, Machine Learning, TensorFlow, Linux, AWS
 
 |Contact Me| |
 |--|--|
-|Address|9423 Reseda Blvd, Los Angeles, CA - 91324|
+|City|Sunnyvale, CA|
 |Email|[darwhekarrugved@gmail.com](mailto:darwhekarrugved@gmail.com)|
 |LinkedIn|[https://www.linkedin.com/in/rdarwhekar/](https://www.linkedin.com/in/rdarwhekar/)|
 |Github|[https://www.github.com/rugveddarwhekar/](https://www.github.com/rugveddarwhekar/)|
-|Twitter|[https://www.twitter.com/@rugved__](https://www.twitter.com/@rugved__)|
+|Twitter|[https://www.twitter.com/@rugved__](https://www.twitter.com/@rugved_9)|
 
 ---
 # Skills
@@ -49,6 +59,83 @@
 |APIs|NoSQL|Spring Boot| AWS ML Notebooks
 
 ---
+# Work Experience
+---
+
+## Android Engineer 
+HCL America (Supporting Google Inc) | 
+Sunnyvale, CA | 
+_Oct 2021 - Present_
+
+- Triage, debug, and verify over 150 bugs weekly reported on released and unreleased Pixel devices by internal Google users to find their root cause while meeting product release guideline
+- Developed and maintained a knowledge base of 110+ common Android platform issues and their solutions
+- Reduced escalations by 20% and improved team efficiency by developing app scripts and automation scripts
+- Led a team of four people in the planning and execution of a project from its initiation to its successful completion
+- Streamlined the battery and telephony bugs triage process by building efficient workflows and improving the documentation
+- Investigate through means at hand (reproduction, developing sample apps) to find out if the issue is related to the underlying hardware, Android platform, or a user-facing application
+- Introduced machine learning models to an existing project for detecting junk and allowing the team to focus on important bugs
+- Acted as a mentor and coach to new team members, providing guidance and training as needed
+
+## Web Developer / UX & Accessibility Specialist 
+Satwic Inc (Supporting City of Los Angeles) | 
+Los Angeles, CA | 
+_Oct 2020 - Oct 2021_
+
+- Collaborated with a team of 15 designers and developers to build websites that accommodate the diverse needs of 3.6 million users in an agile-like development process using JIRA/TFS
+- Developed and implemented accessibility plans and strategies for web development projects, ensuring compliance with web accessibility standards such as WCAG 2.1 and Section 508
+- Improved the website accessibility standards to ensure conformance by resolving 300+ bugs using jQuery, ASP, and C#
+
+## Android Developer Intern 
+Vision Labs | 
+Pleasanton, CA | 
+_Aug 2020 - Oct 2020_
+
+- Implemented Android and iOS applications for a Virtual Reality product with BTBLE and Wi-Fi P2P
+- Designed, developed, tested, and documented software applications for mobile devices using hybrid (Flutter) and native Android development technologies
+- Maintained and enhanced existing applications, and developed three new application features as per the business requirements
+- Conducted test automation using frameworks such as Appium and Firebase
+
+## Software Developer Intern 
+TAP Series LLC. | 
+Westlake Village, CA | 
+_March 2020 - May 2020_
+
+- Devised a web scrapping program in Python to help the firm download published financial data, stock quotes, enrich internal data, and increase research efficiency by over 50% and provided data visualizations using Python libraries like Matplotlib and Pandas
+- Revamped scripting tasks for automation, reducing project build time from 30 seconds to 10 seconds
+
+## Web Developer (Part-Time) 
+The Sundial | 
+Northridge, CA | 
+_Sept 2018 - Dec 2019_
+
+- Developed a user-centric website, including an optimized homepage and advertisements achieving a 40% increase in ad revenue
+- Led the transformation from WordPress to a custom website suited for user’s needs, which led to a 1.5x surge in revisiting users and improved user retention
+- Used version control systems such as GitHub to manage code repositories and collaborate with team members
+
+## Student Assistant - IT (Part-Time) 
+Department of Journalism, CSUN | 
+Northridge, CA | 
+_Dec 2018 - Dec 2019_
+
+- Performed a range of simultaneous job tasks to support professor’s academic, research and operational needs.  
+- Set up and configured system user hardware and software applications.  
+- Supported the IT manager with department administrative duties.  
+- Developed IT strategic vision and drove key departmental objectives.
+
+## UI Developer Intern 
+Engaginbiz Technologies | 
+Work from Home, India | 
+_July 2017 - Sept 2017_
+
+- Completely designed an application named "Bizfluence" from scratch. Bizfluence is like the tinder for businesses. Learned a lot regarding UX!  
+- Delivered user-centered design solutions in fast paced environment, with quick iterative cycles.  
+- Acquired skills in communication and collaboration by working with remote team on various projects.  
+- Partnering with executives and other stakeholders to define smart strategies that align to business and customer needs.  
+- Presenting and articulating concepts to senior management and executives.  
+- Responsible for the conception, oversight and execution of design direction on all key initiatives.
+
+
+---
 # Education
 ---
 
@@ -56,7 +143,7 @@
 **California State University, Northridge, US**
 
 *Aug 2018 - May 2020* | 
-**GPA: 3.66**
+**GPA: 3.67**
 
 #### Related Coursework
 - Mobile Computing
@@ -81,53 +168,6 @@
 - Data Mining
 
 ---
-# Work Experience
----
-
-## Programming Intern 
-TAP Series LLC. | 
-Westlake Village, CA | 
-_March 2020 - Present (Currently on-hold due to Covid-19 pandemic)_
-
-TAP Series in an industry leader in online classes, training and certification courses and cloud solutions with 25 employees.
-- Developed a web scraper using Python which collects 50 data points and not only stores them but also generates relevant reports. 
-- Handled scripting tasks for debugging and automation using Python.
-- Maintaining and debugging existing applications.
-
-## Web Developer (Part-Time) 
-The Sundial | 
-Northridge, CA | 
-_Sept 2018 - Dec 2019_
-
-The Sundial is an award-winning, and financially independent, student newspaper and website. We are student journalists who  seek to gather, write, edit and publish or disseminate news for our students and community.
-- Developed and Designed the website using WordPress, PHP, HTML and CSS resulting in a better UX.
-- Integrated & developed various APIs and plugins to support the editors in easily publishing new content and resulting in better workflow.
-- Developed software system testing and validation procedures and documentation.
-- Made the site accessible for all users following WCAG 2.0
-
-## Student Assistant - IT (Part-Time) 
-Department of Journalism, CSUN | 
-Northridge, CA | 
-_Dec 2018 - Dec 2019_
-
-- Performed a range of simultaneous job tasks to support professor’s academic, research and operational needs.  
-- Set up and configured system user hardware and software applications.  
-- Supported the IT manager with department administrative duties.  
-- Developed IT strategic vision and drove key departmental objectives.
-
-## UI/UX Designer (Intern) 
-Engaginbiz Technologies | 
-Work from Home, India | 
-_July 2017 - Sept 2017_
-
-- Completely designed an application named "Bizfluence" from scratch. Bizfluence is like the tinder for businesses. Learned a lot regarding UX!  
-- Delivered user-centered design solutions in fast paced environment, with quick iterative cycles.  
-- Acquired skills in communication and collaboration by working with remote team on various projects.  
-- Partnering with executives and other stakeholders to define smart strategies that align to business and customer needs.  
-- Presenting and articulating concepts to senior management and executives.  
-- Responsible for the conception, oversight and execution of design direction on all key initiatives.
-
----
 # Projects
 ---
 
@@ -143,8 +183,3 @@ _July 2017 - Sept 2017_
 	- Presentation: [https://bit.ly/rugved_thesis_presentation](https://bit.ly/rugved_thesis_presentation)
   
 ---
-More Projects Coming Soon!
----
-
-> Praises make the wicked deaf while people who praise become successful because of their humility.
-> -RigVeda
