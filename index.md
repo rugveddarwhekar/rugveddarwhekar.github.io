@@ -22,45 +22,67 @@ Familiar: Micro-services, NLP (Natural Language Processing), GraphQL, Machine Le
 
 ---
 # Skills
----
-
-|Programming Languages||||||
-|--|--|--|--|--|--|
-|Java|Python|Kotlin|JavaScript|C|SQL|
 
 
-|Mobile Technologies / Libraries||||||
-|--|--|--|--|--|--|
-|Android|Flutter|React|SQLite|Firebase|Volley|
-|GPS|TensorFlow Lite|MLKit|Picasso|OkHttp|Zxing|
+### Programming Languages
 
+- Java
+- Python
+- Kotlin
+- JavaScript
+- C
 
-|Quality Assurance and Testing|||
-|--|--|--|
-|Appium|Selenium|JIRA|
-|SoapUI|Postman|Firebase|
+### Mobile Technologies / Libraries
 
+- Android
+- Flutter
+- SQLite
+- Firebase
+- Volley
+- GPS
+- TensorFlow Lite
+- MLKit
+- Picasso
+- OkHttp
+- Zxing
 
-|Web Technologies||||
-|--|--|--|--|
-|HTML|CSS|JS|Python
-|PHP|WordPress|Bootstrap|Git
+### Quality Assurance and Testing
 
+- Appium
+- Selenium
+- JIRA
+- SoapUI
+- Postman
+- ADB
 
-|UX and UI Designing|||
-|--|--|--|
-|UX Research|Wireframing|Sketch|
-|UI Prototyping|User Research|Adobe Suite|
+### Web Technologies
 
+- HTML
+- CSS
+- PHP
+- WordPress
+- Bootstrap
 
-|Other||||
-|--|--|--|--|
-|Linux|Git/GitHub|JSON|TensorFlow
-|APIs|NoSQL|Spring Boot| AWS ML Notebooks
+### UX and UI Designing
+
+- UX Research
+- Wireframing
+- Sketch
+- UI Prototyping
+- User Research
+- Adobe Suite
+
+### Other
+
+- Linux
+- Git/GitHub
+- JSON
+- SQL
+- NoSQL
 
 ---
 # Work Experience
----
+
 
 ## Android Engineer 
 HCL America (Supporting Google Inc) | 
@@ -137,7 +159,7 @@ _July 2017 - Sept 2017_
 
 ---
 # Education
----
+
 
 ## M.S. in Computer Science
 **California State University, Northridge, US**
@@ -169,7 +191,7 @@ _July 2017 - Sept 2017_
 
 ---
 # Projects
----
+
 
 ## Skin Disease Classifier 
 **California State University, Northridge**
