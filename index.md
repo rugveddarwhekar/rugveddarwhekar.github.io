@@ -146,7 +146,7 @@ _Dec 2018 - Dec 2019_
 
 ## UI Developer Intern 
 Engaginbiz Technologies | 
-Work from Home, India | 
+India | 
 _July 2017 - Sept 2017_
 
 - Completely designed an application named "Bizfluence" from scratch. Bizfluence is like the tinder for businesses. Learned a lot regarding UX!  
